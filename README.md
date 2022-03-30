@@ -6,6 +6,8 @@ Account IDs and instructions for how to reproduce [my analysis of Twitter accoun
 
 The IDs of all accounts are provided in the repository as a text file: `liking_ALL_users_account_IDs.txt`.
 
+There are 196689 unique accounts in total, which 'liked' at least one of the most recent 50 tweets from 75 Russian government and embassy accounts (details below). 
+
 ## Step 2
 
 For the [bot analysis](https://twitter.com/timothyjgraham/status/1508029324334870528) I used the [Botometer model via the API](https://rapidapi.com/OSoMe/api/botometer-pro).
@@ -21,3 +23,83 @@ You can use the list of accounts IDs provided in Step 1 to collect all the accou
 ```
 twarc2 users liking_ALL_users_account_IDs.txt liking_ALL_users_account_IDs.jsonl
 ```
+
+## Notes
+
+The accounts in this analysis 'liked' at least one of the most recent 50 tweets sent by the following Russian government and embassy accounts. The most recent 50 tweets for each of the 75 accounts were collected on 19 March 2022. 
+
+rusembusa
+rusembassyj
+rusembindia
+rusembjakarta
+rusembassyiraq
+rusemb_pl
+rusembest
+rusembethiopia
+rusembswiss
+rusembau
+rusembassynl
+rusembassykabul
+rusembsg
+rusembpakistan
+rusemb_iceland
+embrusbotswana
+rusembbangkok
+rusembbrunei
+rusembbul
+rusembbah
+rusembbih
+rusembcyprus
+rusembcro
+rusembcanada
+rusembchile
+rusembchina
+rusembdk
+rusembdprk
+rusembassy
+rusemberitrea
+rusembegypt
+rusembghanaeng
+rusembghana
+rusembhungary
+rusembitaly
+rusembindia_ru
+rusembjordan
+rusembkuw
+rusembkg
+rusembleb
+rusemblux
+rusembmalta
+rusembmanila
+rusembmauritius
+rusembmng
+rusembnigeria
+rusembnz
+rusembnam
+rusembperu
+rusembrso
+rusembsrilanka
+rusembsyria
+rusembswe
+rusembsey
+ambrusslo
+rusembsk
+rusembsrilankar
+rusembtz
+rusembturkey
+rusembuganda
+rusembusapress
+rusembukraine
+rusembvietnam
+emb_rus
+rusembz
+mission_russian
+sovfedinfo
+kremlinrussia
+embassyofrussia
+mid_rf
+natomission_ru
+mod_russia
+russia
+russiaun
+russianembassy
