@@ -1,6 +1,6 @@
 # Pro-Russian 'liking' accounts on Twitter
 
-<img align="right" width="400" alt="image" src="https://user-images.githubusercontent.com/11286959/160737626-45c5c58c-88c2-4c3c-bfcc-7631307f89c0.png">
+<img align="right" width="400" alt="image" src="https://user-images.githubusercontent.com/11286959/160738027-48807dac-b9e2-4a85-80fa-40e3f151f17f.png">
 
 Account IDs and instructions for how to reproduce [my analysis of Twitter accounts](https://www.abc.net.au/news/science/2022-03-30/ukraine-war-twitter-bot-network-amplifies-russian-disinformation/100944970) that liked tweets from Russian government and embassy accounts.
 
@@ -11,6 +11,8 @@ The IDs of all accounts are provided in the repository as a text file: `liking_A
 There are 196689 unique accounts in total, which 'liked' at least one of the most recent 50 tweets from 75 Russian government and embassy accounts (details below). 
 
 ## Step 2
+
+<img align="right" width="400" alt="image" src="https://user-images.githubusercontent.com/11286959/160738123-91af0220-17e5-40e2-9639-0adfdd1e42db.png">
 
 For the [bot analysis](https://twitter.com/timothyjgraham/status/1508029324334870528) I used the [Botometer model via the API](https://rapidapi.com/OSoMe/api/botometer-pro).
 
