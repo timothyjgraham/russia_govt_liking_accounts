@@ -2,6 +2,8 @@
 
 Account IDs and instructions for how to reproduce [my analysis of Twitter accounts](https://www.abc.net.au/news/science/2022-03-30/ukraine-war-twitter-bot-network-amplifies-russian-disinformation/100944970) that liked tweets from Russian government and embassy accounts.
 
+<img align="right" width="869" alt="image" src="https://user-images.githubusercontent.com/11286959/160737626-45c5c58c-88c2-4c3c-bfcc-7631307f89c0.png">
+
 ## Step 1
 
 The IDs of all accounts are provided in the repository as a text file: `liking_ALL_users_account_IDs.txt`.
@@ -28,78 +30,79 @@ twarc2 users liking_ALL_users_account_IDs.txt liking_ALL_users_account_IDs.jsonl
 
 The accounts in this analysis 'liked' at least one of the most recent 50 tweets sent by the following Russian government and embassy accounts. The most recent 50 tweets for each of the 75 accounts were collected on 19 March 2022. 
 
-rusembusa
-rusembassyj
-rusembindia
-rusembjakarta
-rusembassyiraq
-rusemb_pl
-rusembest
-rusembethiopia
-rusembswiss
-rusembau
-rusembassynl
-rusembassykabul
-rusembsg
-rusembpakistan
-rusemb_iceland
-embrusbotswana
-rusembbangkok
-rusembbrunei
-rusembbul
-rusembbah
-rusembbih
-rusembcyprus
-rusembcro
-rusembcanada
-rusembchile
-rusembchina
-rusembdk
-rusembdprk
-rusembassy
-rusemberitrea
-rusembegypt
-rusembghanaeng
-rusembghana
-rusembhungary
-rusembitaly
-rusembindia_ru
-rusembjordan
-rusembkuw
-rusembkg
-rusembleb
-rusemblux
-rusembmalta
-rusembmanila
-rusembmauritius
-rusembmng
-rusembnigeria
-rusembnz
-rusembnam
-rusembperu
-rusembrso
-rusembsrilanka
-rusembsyria
-rusembswe
-rusembsey
-ambrusslo
-rusembsk
-rusembsrilankar
-rusembtz
-rusembturkey
-rusembuganda
-rusembusapress
-rusembukraine
-rusembvietnam
-emb_rus
-rusembz
-mission_russian
-sovfedinfo
-kremlinrussia
-embassyofrussia
-mid_rf
-natomission_ru
-mod_russia
-russia
-russiaun
-russianembassy
+1.	rusembusa
+2.	rusembassyj
+3.	rusembindia
+4.	rusembjakarta
+5.	rusembassyiraq
+6.	rusemb_pl
+7.	rusembest
+8.	rusembethiopia
+9.	rusembswiss
+10.	rusembau
+11.	rusembassynl
+12.	rusembassykabul
+13.	rusembsg
+14.	rusembpakistan
+15.	rusemb_iceland
+16.	embrusbotswana
+17.	rusembbangkok
+18.	rusembbrunei
+19.	rusembbul
+20.	rusembbah
+21.	rusembbih
+22.	rusembcyprus
+23.	rusembcro
+24.	rusembcanada
+25.	rusembchile
+26.	rusembchina
+27.	rusembdk
+28.	rusembdprk
+29.	rusembassy
+30.	rusemberitrea
+31.	rusembegypt
+32.	rusembghanaeng
+33.	rusembghana
+34.	rusembhungary
+35.	rusembitaly
+36.	rusembindia_ru
+37.	rusembjordan
+38.	rusembkuw
+39.	rusembkg
+40.	rusembleb
+41.	rusemblux
+42.	rusembmalta
+43.	rusembmanila
+44.	rusembmauritius
+45.	rusembmng
+46.	rusembnigeria
+47.	rusembnz
+48.	rusembnam
+49.	rusembperu
+50.	rusembrso
+51.	rusembsrilanka
+52.	rusembsyria
+53.	rusembswe
+54.	rusembsey
+55.	ambrusslo
+56.	rusembsk
+57.	rusembsrilankar
+58.	rusembtz
+59.	rusembturkey
+60.	rusembuganda
+61.	rusembusapress
+62.	rusembukraine
+63.	rusembvietnam
+64.	emb_rus
+65.	rusembz
+66.	mission_russian
+67.	sovfedinfo
+68.	kremlinrussia
+69.	embassyofrussia
+70.	mid_rf
+71.	natomission_ru
+72.	mod_russia
+73.	russia
+74.	russiaun
+75.	russianembassy
+
