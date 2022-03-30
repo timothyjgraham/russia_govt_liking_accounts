@@ -6,12 +6,6 @@ Account IDs and instructions for how to reproduce [my analysis of Twitter accoun
 
 The IDs of all accounts are provided in the repository as a text file: `liking_ALL_users_account_IDs.txt`.
 
-You can use this text file to collect all the account information via the Twitter API. Personally I use the [twarc2 software](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/) and the following command to collect user information for a set of IDs:
-
-```
-twarc2 users liking_ALL_users_account_IDs.txt liking_ALL_users_account_IDs.jsonl
-```
-
 ## Step 2
 
 For the [bot analysis](https://twitter.com/timothyjgraham/status/1508029324334870528) I used the [Botometer model via the API](https://rapidapi.com/OSoMe/api/botometer-pro).
@@ -20,3 +14,10 @@ Specifically, I ran Botometer on 16513 accounts in the dataset that were created
 
 You will need to run Botometer on the account IDs provided in Step 1, or a subset (e.g. accounts created in 2022). I did this in Python but it is possible to do it using other methods too, and [Botometer provides instructions](https://rapidapi.com/OSoMe/api/botometer-pro/details) for how to run the model.
 
+## Step 3 (optional)
+
+You can use the list of accounts IDs provided in Step 1 to collect all the account information via the Twitter API. Personally I use the [twarc2 software](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/) and the following command to collect user information for a set of IDs:
+
+```
+twarc2 users liking_ALL_users_account_IDs.txt liking_ALL_users_account_IDs.jsonl
+```
