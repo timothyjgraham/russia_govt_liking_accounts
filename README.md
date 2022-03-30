@@ -28,7 +28,7 @@ twarc2 users liking_ALL_users_account_IDs.txt liking_ALL_users_account_IDs.jsonl
 
 ## Notes
 
-The accounts in this analysis 'liked' at least one of the most recent 50 tweets sent by the following Russian government and embassy accounts. The most recent 50 tweets for each of the 75 accounts were collected on 19 March 2022. 
+The accounts in this analysis 'liked' at least one of the most recent 50 tweets sent by 75 Russian government and embassy accounts detailed below. The most recent 50 tweets for each of the 75 accounts were collected on 19 March 2022. I used twarc2 to collect the timelines of these accounts (see Step 3 for more information about this data collection method).
 
 1.	rusembusa
 2.	rusembassyj
