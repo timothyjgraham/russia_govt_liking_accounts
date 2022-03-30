@@ -1,4 +1,4 @@
-# Pro-Russian liking accounts on Twitter
+# Pro-Russian 'liking' accounts on Twitter
 
 Account IDs and instructions for how to reproduce [my analysis of Twitter accounts](https://www.abc.net.au/news/science/2022-03-30/ukraine-war-twitter-bot-network-amplifies-russian-disinformation/100944970) that liked tweets from Russian government and embassy accounts.
 
